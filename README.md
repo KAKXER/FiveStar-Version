@@ -6,4 +6,4 @@
 >                  FiveStar Development
 >`This section is only for checking FiveStar scripts Version`
 
-> [Discord](https://discord.gg/PK6g3CMe5z) | [Tebex](https://5star.tebex.io) 
+> [Discord](https://discord.gg/PK6g3CMe5z) | [Tebex](https://5star.tebex.io) | [Website](https://fivestar.codes) 
